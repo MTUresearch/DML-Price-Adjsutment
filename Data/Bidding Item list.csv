@@ -1,0 +1,113 @@
+﻿State,Group,Item Description,Description,Unit,Item Number
+Idaho,Excavation,EXCAVATION,This work includes excavation performed under this contract pay item regardless of the material encountered.,CY,205-005A
+Idaho,Excavation,EXCAVATION (TOPSOIL),This work includes excavation performed under this contract pay item regardless of the material encountered.,CY,205-005B
+Idaho,Excavation,EXCAVATION ROCK,This work includes excavation performed under this contract pay item regardless of the material encountered.,CY,205-005B
+Idaho,Excavation,CHANNEL CHANGE EXCAVATION,Channel change excavation will be measured only for excavation necessary to construct the channel or ditch from established bank elevation to flowline grade.,CY,205-025A
+Idaho,Borrow,BORROW,Obtain borrow from designated or approved sources.,CY,205‐030A
+Idaho,Base,"3/4"" AGGR TY A FOR BASE","Provide, place, and construct 1 or more courses of aggregate on a prepared surface.",TON,303-021A
+Idaho,Base,"3/4"" AGGR TY B FOR BASE","Provide, place, and construct 1 or more courses of aggregate on a prepared surface.",TON,303-022A
+Idaho,Base,"3/4"" AGGREGATE TYPE A FOR BASE","Provide, place, and construct 1 or more courses of aggregate on a prepared surface.",TON,303‐021A
+Idaho,Base,"3/4"" AGGREGATE TYPE B FOR BASE","Provide, place, and construct 1 or more courses of aggregate on a prepared surface.",TON,303-022A
+Idaho,Base,OPEN-GRADED BASE CLASS I,Construct 1 or more courses of open-graded base on a prepared surface.,TON,307‐010A
+Idaho,Base,OPEN-GRADED BASE CLASS II,Construct 1 or more courses of open-graded base on a prepared surface.,TON,307‐011A
+Idaho,Base,OPEN-GRADED BASE CLASS III,Construct 1 or more courses of open-graded base on a prepared surface.,TON,307‐012A
+Idaho,Pavement,CONCRETE PAVEMENT,Construct a portland cement concrete pavement as specified.,SY,409-015A
+Idaho,Pavement,"CONCRETE PAVEMENT (8"")",Construct a portland cement concrete pavement as specified.,SY,409-015A
+Idaho,Pavement,"CONCRETE PAVEMENT (10"")",Construct a portland cement concrete pavement as specified.,SY,409-015A
+Idaho,Pavement,"CONCRETE PAVEMENT (11"")",Construct a portland cement concrete pavement as specified.,SY,409-015A
+Idaho,Pavement,CONCRETE PAVEMENT (1.0'),Construct a portland cement concrete pavement as specified.,SY,409-015A
+Idaho,Pavement,"CONCRETE PAVEMENT (13"")",Construct a portland cement concrete pavement as specified.,SY,409-015A
+Iowa,Excavation,"EXCAVATION, CL 10, CHANNEL","Class 10 (Roadway & Borrow, Unsuitable, Waste, Stockpile, and Channel)",CY,2104-2710020
+Iowa,Excavation,"EXCAVATION, CL 10, RDWY+BORROW","Class 10 (Roadway & Borrow, Unsuitable, Waste, Stockpile, and Channel)",CY,2102-2710070
+Iowa,Excavation,"EXCAVATION, CL 12, CHANNEL","Class 12 (Roadway & Borrow, Channel, and Waste)",CY,2104-2712020
+Iowa,Excavation,"EXCAVATION, CL 12, RDWY+BORROW","Class 12 (Roadway & Borrow, Channel, and Waste)",CY,2102-2712070
+Iowa,Excavation,"EXCAVATION, CL 13, CHANNEL","Class 13 (Roadway & Borrow, Channel, and Waste)",CY,2104-2713020
+Iowa,Excavation,"EXCAVATION, CL 13, RDWY+BORROW","Class 13 (Roadway & Borrow, Channel, and Waste)",CY,2102-2713070
+Iowa,Excavation,ROCK EXCAVATION,Boulders or sedimentary deposits that cannot be removed from the trench without continuous use of pneumatic tools or blasting.,CY,2552-0000140
+Iowa,Embankment,EMBANKMENT-IN-PLACE,,CY,2102-2625000
+Iowa,Embankment,"EMBANKMENT-IN-PLACE, CONTRACTOR FURNISH",,CY,2102-2625001
+Iowa,Topsoil,"TOPSOIL, FURN+SPREAD",,CY,2105-8425005
+Iowa,Topsoil,"TOPSOIL, SPREAD",,CY,2105-8425011
+Iowa,Topsoil,"TOPSOIL, STRIP, SALVAGE+SPREAD",,CY,2105-8425015
+Iowa,Topsoil,"TOPSOIL, STRIP+STKP",,CY,2105-8425020
+Mississippi,Excavation,"Unclassified Excavation, FM, AH      ( E )",FM: Final Measure,CY,203-A001
+Mississippi,Excavation,"Unclassified Excavation, LVM, AH      ( E )",LVM: Loose Vehicle Measure,CY,203-A002
+Mississippi,Excavation,"Rock Excavation, FM, AH      ( E )",AH: Absorbed Haul,CY,203-B001
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B3      ( E )",FME: Final Measure-Embankment,CY,203-EX012
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B7      ( E )",,CY,203-EX017
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B7-6      ( E )",,CY,203-EX018
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B9      ( E )",,CY,203-EX020
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B9-6      ( E )",,CY,203-EX021
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B10      ( E )",,CY,203-EX002
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B15      ( E )",,CY,203-EX008
+Mississippi,Excavation,"Borrow Excavation, AH, FME, Class B17      ( E )",,CY,203-EX010
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B7      ( E )",,CY,203-EX037
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B7-6      ( E )",,CY,203-EX038
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B9      ( E )",,CY,203-EX040
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B9-6      ( E )",,CY,203-EX041
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B15      ( E )",,CY,203-EX029
+Mississippi,Excavation,"Borrow Excavation, AH, LVM, Class B17      ( E )",,CY,203-EX031
+Mississippi,Excavation,"Channel Excavation, FM      ( E )",,CY,203-F001
+Mississippi,Excavation,"Channel Excavation, LVM      ( E )",,CY,203-F002
+Mississippi,Excavation,"Excess Excavation, FM, AH      ( E )",,CY,203-G001
+Mississippi,Excavation,"Excess Excavation, LVM, AH      ( E )",,CY,203-G002
+Mississippi,Base,"Granular Material, Class 3, Group C      ( GT )",,TON,304-B001
+Mississippi,Base,"Granular Material, Class 3, Group D      ( GT )",,TON,304-B002
+Mississippi,Base,"Granular Material, Class 5, Group C      ( GT )",,TON,304-B003
+Mississippi,Base,"Granular Material, Class 5, Group D      ( GT )",,TON,304-B004
+Mississippi,Base,"Granular Material, Class 6, Group C      ( GT )",,TON,304-B006
+Mississippi,Base,"Granular Material, Class 6, Group D      ( GT )",,TON,304-B007
+Mississippi,Base,"Granular Material, Class 9, Group C      ( GT )",,TON,304-B009
+Mississippi,Base,"Soil-Cement-Water Mixing, Optional Mixers, Base      ( M )",,SY,308-B002
+Missouri,Excavation,CLASS A EXCAVATION,All roadway and drainage excavation not classified as Class C or Unclassified.,CUYD,2031000
+Missouri,Excavation,UNCLASSIFIED EXCAVATION,Excavation of all material not classified within the contract.,CUYD,2035000
+Missouri,Excavation,CLASS C EXCAVATION,"Removal of stone, including sandstone or igneous formations, in ledges 6 inches thick or more",CUYD,2032000
+Missouri,Embankment,EMBANKMENT IN PLACE,,CUYD,2035500
+Missouri,Pavement,CONCRETE PAVEMENT ( 6 IN. NON-REINF),,SQYD,5021106
+Missouri,Pavement,CONCRETE PAVEMENT ( 7 IN. NON-REINF),,SQYD,5021107
+Missouri,Pavement,CONCRETE PAVEMENT ( 8 IN. NON-REINF),,SQYD,5021108
+Missouri,Pavement,CONCRETE PAVEMENT ( 9 IN. NON-REINF),,SQYD,5021109
+Missouri,Pavement,CONCRETE PAVEMENT (10 IN. NON-REINF),,SQYD,5021110
+West Virginia,Excavation,UNCLASSIFIED EXCAVATION,,CY,207001-001
+West Virginia,Excavation,ROCK EXCAVATION,,CY,212003-000
+West Virginia,Excavation,WET EXCAVATION,,CY,212002-000
+West Virginia,Base,"AGGREGATE BASE COURSE, CLASS",,CY,307001-000
+West Virginia,Pavement,6 INCH NON-REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501005-006
+West Virginia,Pavement,6 INCH REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501001-006
+West Virginia,Pavement,8 INCH NON-REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501005-008
+West Virginia,Pavement,8 INCH REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501001-008
+West Virginia,Pavement,9 INCH NON-REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501005-009
+West Virginia,Pavement,9 INCH REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501001-009
+West Virginia,Pavement,10 INCH NON-REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501005-010
+West Virginia,Pavement,12 INCH NON-REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501005-012
+West Virginia,Pavement,12 INCH REINFORCED PORTLAND CEMENT CONCRETE PAVEMENT,,SY,501001-012
+West Virginia,Pavement,12 INCH PORTLAND CEMENT CONCRETE APPROACH SLAB,,SY,502001-012
+West Virginia,Pavement,14 INCH PORTLAND CEMENT CONCRETE APPROACH SLAB,,SY,502001-014
+West Virginia,Pavement,16 INCH PORTLAND CEMENT CONCRETE APPROACH SLAB,,SY,502001-016
+Georgia,Excavation,"BORROW EXCAV, INCL MATL",,CY,206-0002
+Georgia,Excavation,CHANNEL EXCAVATION,,CY,204-0001
+Georgia,Excavation,EXCAVATION - ROCK,,CY,205-0210
+Georgia,Excavation,ROCK EXCAVATION,,CY,660-3550
+Georgia,Excavation,UNCLASS EXCAV,,CY,205-0001
+Georgia,Pavement,"MICRO-MILL ASPHALTIC CONCRETE PAVEMENT, VARIABLE DEPTH",,SY,432-0350
+Georgia,Base,"GR AGGR BASE CRS, INCL MATL",,TN,310-1101
+Georgia,Base,AGGR SURF CRS,,TN,318-3000
+Georgia,Topsoil,PLANT TOPSOIL,This work includes furnishing and applying approved plant topsoil at the locations shown on the plans or as directed by the Engineer and according to these specifications.,CY,708-1000
+Georgia,Embankment,"GRANULAR EMBANKMENT, INCL MATL & HAUL",,CY,212-1000
+Georgia,Embankment,IN PLACE EMBANKMENT,,CY,208-0100
+Michigan,Excavation,"Excavation, Channel",,Cyd,2050015
+Michigan,Excavation,"Excavation, Earth",,Cyd,2050016
+Michigan,Excavation,"Excavation, Rock",,Cyd,2050018
+Michigan,Embankment,"Embankment, CIP",Cast In Place,Cyd,2050010
+Michigan,Embankment,"Embankment, LM",,Cyd,2050011
+Michigan,Base,Aggregate Base,,Ton,3020001
+Michigan,Base,"Subbase, CIP",,Cyd,3010002
+Michigan,Topsoil,"Topsoil Surface, Furn, LM",,Cyd,8160071
+Michigan,Topsoil,"Topsoil Surface, Salv, LM",,Cyd,8160086
+Michigan,Pavement,"Conc Pavt, Nonreinf, 6 inch",,Syd,6020100
+Michigan,Pavement,"Conc Pavt, Nonreinf, 7 inch",,Syd,6020102
+Michigan,Pavement,"Conc Pavt, Nonreinf, 8 inch",,Syd,6020104
+Michigan,Pavement,"Conc Pavt, Nonreinf, 9 inch",,Syd,6020106
+Michigan,Pavement,"Conc Pavt, Nonreinf, 10 inch",,Syd,6020108
+Michigan,Pavement,"Conc Pavt, Nonreinf, 11 inch",,Syd,6020110
+Michigan,Pavement,"Conc Pavt, Nonreinf, 12 inch",,Syd,6020112
